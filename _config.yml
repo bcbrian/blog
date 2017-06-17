@@ -2,7 +2,7 @@
 title: bcbrian
 subtitle: rapid app prototyping
 email: me@bcbrian.com
-description: A blog about getting apps up and going quickly
+description: Let me show you how to get apps up and going quickly
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bcbrian-blog.netlify.com" # the base hostname & protocol for your site
 author: Brian Bartholomew
